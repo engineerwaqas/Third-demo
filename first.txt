@@ -1,3 +1,4 @@
+updating to check merge commit
 first file
 
 wokring to check fast merge
