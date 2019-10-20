@@ -1,4 +1,6 @@
 
+additional commit to check rebase in smart gui
+
 commiting now to check rebase
 updated for merge commit
 
