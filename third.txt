@@ -1,3 +1,4 @@
+adding commit ot chcek rebase in smrt
 checking merge commit in smart git
 
 adding text in dev
