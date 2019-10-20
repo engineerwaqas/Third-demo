@@ -1,3 +1,5 @@
+updated for merge commit
+
 changing again to check merge on smart git
 
 second text
