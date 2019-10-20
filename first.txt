@@ -1,3 +1,5 @@
+checking rebase
+
 updating to check merge commit
 first file
 
