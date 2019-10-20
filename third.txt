@@ -1,3 +1,5 @@
+checking merge commit in smart git
+
 adding text in dev
 
 changing again to hcek fast merge
